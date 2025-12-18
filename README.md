@@ -25,6 +25,6 @@ and exports the data into a CSV file using file handling.
 
 ## Purpose
 - Learn file handling in Java using FileWriter
-- xport data into CSV format for real-world applications
+- Export data into CSV format for real-world applications
 - Develop beginner-friendly data storage and export mini projects
 - This project demonstrates basic file handling operations in Java for internship practice.
